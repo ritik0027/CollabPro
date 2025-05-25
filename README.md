@@ -25,7 +25,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/nitishgupta08/CodeForges.git
+  git clone https://github.com/ritik0027/CollabPro.git
 ```
 
 - Run frontend
